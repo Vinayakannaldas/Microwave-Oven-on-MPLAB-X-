@@ -65,5 +65,6 @@ This project is designed for the Microchip PIC16F877A microcontroller and is typ
 *   **Peripheral Control:** Integrated and controlled output peripherals like a buzzer and a cooling fan based on the operational state of the microwave.
 *   **Error Handling:** Implemented basic error checking, such as validating temperature input in convection mode.
 
+
 ## Author
 Vinayak Annaldas
